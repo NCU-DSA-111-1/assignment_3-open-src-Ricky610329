@@ -1,1 +1,20 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9710455&assignment_repo_type=AssignmentRepo)
+# **ASSIGNMENT_3**
+### **result of Arithemtic Coding**
+![image](./0.PNG)
+### **Huffman Coding**
+![image](./1.PNG)
+## **build**
+### **Arithemtic Coding:**
+
+```../arcd-master$ cmake```
+
+```../arcd-master/examples$ make```
+
+Run:
+```/arcd-master/examples$ ./arcd_stream -e <"./randtext.txt"|tee output.txt```
+
+### **Huffman Coding:**
+
+```make```
+
+Run:```/huffman-main$ ./huffcode -i randtext.txt -o output.txt -c```

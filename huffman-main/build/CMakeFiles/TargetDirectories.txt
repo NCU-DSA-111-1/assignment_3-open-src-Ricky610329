@@ -1,0 +1,9 @@
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/install/strip.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/install/local.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/edit_cache.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/test.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/install.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/list_install_components.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/rebuild_cache.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/huffcode.dir
+/home/datastructure/Desktop/assigment4/huffman-main/build/CMakeFiles/huffman.dir

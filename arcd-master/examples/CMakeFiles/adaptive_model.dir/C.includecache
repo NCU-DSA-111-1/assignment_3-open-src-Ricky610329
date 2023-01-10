@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/datastructure/Desktop/assigment4/arcd-master/examples/adaptive_model.c
+assert.h
+-
+stdlib.h
+-
+adaptive_model.h
+/home/datastructure/Desktop/assigment4/arcd-master/examples/adaptive_model.h
+
+/home/datastructure/Desktop/assigment4/arcd-master/examples/adaptive_model.h
+arcd.h
+-
+
+arcd/arcd.h
+

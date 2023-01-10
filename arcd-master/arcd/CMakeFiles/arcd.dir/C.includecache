@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/datastructure/Desktop/assigment4/arcd-master/arcd/arcd.c
+assert.h
+-
+arcd.h
+/home/datastructure/Desktop/assigment4/arcd-master/arcd/arcd.h
+
+/home/datastructure/Desktop/assigment4/arcd-master/arcd/arcd.h
+
